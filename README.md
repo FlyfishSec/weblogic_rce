@@ -13,7 +13,7 @@
 ![cve2019-2725](https://raw.githubusercontent.com/FlyfishSec/weblogic_rce/master/Usage.gif "Weblogic _async远程命令执行回显版exp")  
 
 
-## 漏洞详情
+## Vulnerability information
    
    * [关于Oracle WebLogic wls9-async组件存在反序列化远程命令执行漏洞的安全公告](http://www.cnvd.org.cn/webinfo/show/4989)
    * [WebLogic RCE（CVE-2019-2725）漏洞之旅](https://www.freebuf.com/vuls/202800.html)
