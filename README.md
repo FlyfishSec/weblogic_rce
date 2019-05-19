@@ -15,9 +15,9 @@
 
 ## 漏洞详情
    
-   * 关于Oracle WebLogic wls9-async组件存在反序列化远程命令执行漏洞的安全公告http://www.cnvd.org.cn/webinfo/show/4989
-   * WebLogic RCE（CVE-2019-2725）漏洞之旅https://www.freebuf.com/vuls/202800.html
-   * Oracle Security Alert Advisory – CVE-2019-2725https://www.oracle.com/technetwork/security-advisory/alert-cve-2019-2725-5466295.html
+   * [关于Oracle WebLogic wls9-async组件存在反序列化远程命令执行漏洞的安全公告](http://www.cnvd.org.cn/webinfo/show/4989)
+   * [WebLogic RCE（CVE-2019-2725）漏洞之旅](https://www.freebuf.com/vuls/202800.html)
+   * [Oracle Security Alert Advisory – CVE-2019-2725](https://www.oracle.com/technetwork/security-advisory/alert-cve-2019-2725-5466295.html)
 
 ## Contact
 Flyfish#lcx.cc
