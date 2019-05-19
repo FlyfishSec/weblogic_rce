@@ -1,6 +1,6 @@
  cve2019-2725_RCE - Weblogic _async remote command execution exploit
  =
- cve2019_2725、CNVD-C-2019-48814 weblogic _async反序列话远程代码执行漏洞
+ cve2019_2725、CNVD-C-2019-48814 weblogic _async反序列化远程代码执行漏洞
 
  Weblogic _async远程命令执行回显版exp，不需要安装任何库，通杀Windows&Linux。
  Linux Payload用的Jason的，Windows Payload是修改的10271，java.lang.Runtime执行。同样使用写临时文件方式回显漏洞，命令回显后即删除。
