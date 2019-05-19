@@ -4,7 +4,7 @@
 
  Weblogic _async远程命令执行回显版exp，不需要安装任何库，通杀Windows&Linux。
  Linux Payload用的Jason的，Windows Payload是修改的10271，java.lang.Runtime执行。同样使用写临时文件方式回显漏洞，命令回显后即删除。
- >分析过网上各种exp，Windows好使的基本没有，甚至有使用jason的payload直接丢个powershell反弹命令进去,就说能反弹Windows了...还有各种界面版，执行命令404不说，写完文件都不带清理的么
+ >分析过网上各种exp，Windows好使的基本没有，要么在linux的payload上直接加个powershell反弹命令进去,就说能反弹Windows了...还有各种界面版，执行命令404不说，写完文件都不带清理的么
 
 ## Usage
  
