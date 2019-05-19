@@ -17,6 +17,7 @@
 *.exe binary
 *.jar binary
 *.jpg binary
+*.gif binary
 *.mp3 binary
 *.o binary
 *.pdf binary
