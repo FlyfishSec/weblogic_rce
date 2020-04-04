@@ -21,4 +21,4 @@ The main code is based on js implementation.
 
 ## Contact
 
-Flyfish#lcx.cc
+i@Flyfishsec.uu.me
